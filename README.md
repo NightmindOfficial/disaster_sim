@@ -1,6 +1,6 @@
 # DISASTER Simulation Strategizer
 ## What is this?
-This is a quick and (very) dirty Streamlit app hammered together so I can get first place in a business trading under uncertainty simulation that took place at my university in 04/2024.
+This is a quick and (very) dirty Streamlit app cobbled together so I can get first place in a business trading under uncertainty simulation that took place at my university in 04/2024.
 
 ## How to run
 
