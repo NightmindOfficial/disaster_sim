@@ -6,7 +6,7 @@ This is a quick and (very) dirty Streamlit app cobbled together so I can get fir
 
 Make sure you have Python 3.8+ with Streamlit installed.
 
-In case you need to install Stramlit, do that first via ```pip install streamlit```.
+In case you need to install Streamlit, do that first via ```pip install streamlit```.
 
 Then, in a console, run ```streamlit run predict.py``` and you should be good to go.
 
